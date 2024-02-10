@@ -14,7 +14,7 @@ Option    Explanation Weekly Cost to Employee (RM)<br/>
 2         Dental Insurance 20.00<br/>
 3         Disability Insurance 10.00<br/>
 
-Also, workers in Skill Level 3 can elect to participate in the retirement plan at 3% of their gross pay. You are to develop an interactive payroll application that calculates the gross pay for a factory worker.<br/> 
+Also, workers in Skill Level 3 can elect to participate in the retirement plan at 3% of their gross pay. You are to develop an interactive payroll application that calculates the gross pay for a factory worker.<br/><br/> 
 The program asks the user for skill level and hours worked, as well as appropriate insurance and retirement options for the employee’s skill level category. Your application will display:<br/>
 
 i. The hours worked<br/>
@@ -39,7 +39,7 @@ Write a program that prompts the user to enter values for a, b, and c and displa
 1. Use Math.pow(x, 0.5) to compute √2<br/>
 2. You may use if-else-if statement if you’re familiar, otherwise you may use a single if.<br/>
    
-_**Sample run:**_
+_**Sample run:**_<br/>
 Enter a, b, c: 1.0 3 1 [enter]<br/>
 The equation has two roots -0.381966 and -2.61803<br/>
 Enter a, b, c: 1 2.0 1 [enter]<br/>
