@@ -1,6 +1,7 @@
 Questions 📚
 
-1. Assume that you are hired to develop application software which is designed specifically for
+**Question 1**
+Assume that you are hired to develop application software which is designed specifically for
 the Computer Programming course. The application software will be used among the lecturers who taught the course.
 The application software should be able to calculate the total marks accumulated by each student registered for the course.
 In order to calculate the total marks, the lecturer need to input the marks obtained by each student for First Test,
