@@ -1,6 +1,6 @@
 Questions 📚
 
-**Question 1**<br/><br/>
+**Question 1**<br/>
 Assume that you are hired to develop application software which is designed specifically for
 the Computer Programming course. The application software will be used among the lecturers who taught the course.
 The application software should be able to calculate the total marks accumulated by each student registered for the course.
@@ -14,12 +14,12 @@ Second Test, Assignments, and Final Examination. The following is the distributi
 
 The application software shall display all the marks for each evaluation, including total marks in 100%.<br/>
 
-![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/b35e4b35-ea4a-4686-b8c2-9d56b1dc9de9)<br/>
+![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/b35e4b35-ea4a-4686-b8c2-9d56b1dc9de9)<br/><br/>
 
 **For Questions 2 and 3, develop the pre-programming phase (PAC, IPO, flowchart, and
 pseudocode) before implementing the Java program.**<br/><br/>
 
-**Question 2**
+**Question 2**<br/>
 
 Write a program to calculate the volume of a triangle and ask the user for the following:<br/>
 • The base value in cm<br/>
