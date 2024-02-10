@@ -1,6 +1,6 @@
 For all questions, implement only the pseudocode before developing the Java program.
 
-**Question 1**<br/>
+**Question 1**<br/><br/>
 Boots Company runs a small factory that makes shoes. The company employs factory workers who are paid one of three hourly rates depending on skill level:<br/>
 
 Skill Level Hourly Pay Rate (RM)<br/>
@@ -25,9 +25,9 @@ v. The total of regular and overtime pay<br/>
 vi. The total itemized deductions. If the deductions exceed the gross pay, display an error message, otherwise calculate and display<br/>
 vii. The net pay after all the deductions have been subtracted from the gross.<br/>
 
-**Note**: you may choose to use multiway-if or combination of multiway-if and switch statement.<br/>
+**Note**: you may choose to use multiway-if or combination of multiway-if and switch statement.<br/><br/>
 
-**Question 2**<br/>
+**Question 2**<br/><br/>
 The two roots of a quadratic equation ax2 + bx + c = 0 can be obtained using the formula:<br/>
 
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/7184d5db-4ddd-4811-b9bf-30a3232009be)<br/>
@@ -45,9 +45,9 @@ The equation has two roots -0.381966 and -2.61803<br/>
 Enter a, b, c: 1 2.0 1 [enter]<br/>
 The equation has one root –1.0<br/>
 Enter a, b, c: 1 2 3 [enter]<br/>
-The equation has no real roots<br/>
+The equation has no real roots<br/><br/>
 
-**Question 3**<br/>
+**Question 3**<br/><br/>
 Mr. Ahmad runs a cafeteria business. Every morning, before opening his shop, he asked his cashier to exchange a certain amount of Malaysia Ringgit to the bank to get a minimum number of RM50, RM20, RM10, RM5 and RM1 notes.<br/>
 <br/>Write a program that determines the minimum number of RM50, RM20, RM10, RM5 and RM1 notes denominations in each Malaysia Ringgit amount.<br/>
 
