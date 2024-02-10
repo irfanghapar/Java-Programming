@@ -1,4 +1,4 @@
-![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/670e0774-52a3-4398-a4e6-68ef6f0ad11d)For all questions, implement only the pseudocode before developing the Java program.
+For all questions, implement only the pseudocode before developing the Java program.
 
 **Question 1**<br/>
 Boots Company runs a small factory that makes shoes. The company employs factory workers who are paid one of three hourly rates depending on skill level:<br/>
