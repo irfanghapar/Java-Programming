@@ -38,9 +38,7 @@ Volume = area x length<br/><br/>
 **Sample run:**<br/>
 _Enter the base value: 4 [enter]<br/>
 Enter the height value: 3 [enter]<br/>
-
-The area of a triangle is 6 cm2<br/><br/>
-
+The area of a triangle is 6 cm2<br/>
 Enter the length value: 10 [enter]<br/>
 The volume of a triangle is 60 cm3_<br/>
 
