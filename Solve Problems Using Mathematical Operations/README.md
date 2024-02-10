@@ -1,6 +1,6 @@
 Questions 📚
 
-**Question 1**<br/>
+**Question 1**<br/><br/>
 Assume that you are hired to develop application software which is designed specifically for
 the Computer Programming course. The application software will be used among the lecturers who taught the course.
 The application software should be able to calculate the total marks accumulated by each student registered for the course.
@@ -17,7 +17,7 @@ The application software shall display all the marks for each evaluation, includ
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/b35e4b35-ea4a-4686-b8c2-9d56b1dc9de9)<br/>
 
 **For Questions 2 and 3, develop the pre-programming phase (PAC, IPO, flowchart, and
-pseudocode) before implementing the Java program.**
+pseudocode) before implementing the Java program.**<br/>
 
 2. Write a program to calculate the volume of a triangle and ask the user for the following:<br/>
 • The base value in cm<br/>
