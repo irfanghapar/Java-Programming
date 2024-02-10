@@ -2,7 +2,7 @@ For both questions, implement the pre-programming phase before developing the pr
 
 **Question 1**
 
-The Fleurs Floral Company sells bouquet of flowers to customers. The customer will get more discounts if he/she spends more. Compute the final amount a customer must pay after a discount is given. The following are the discounts given to the customer:<br/>
+The Fleurs Floral Company sells bouquet of flowers to customers. The customer will get more discounts if he/she spends more. Compute the final amount a customer must pay after a discount is given. The following are the discounts given to the customer:<br/><br/>
 amount < RM150 discount = 5%<br/>
 amount >= RM150 and < RM600 discount = 10%<br/>
 amount >= RM600 discount = 15%<br/>
