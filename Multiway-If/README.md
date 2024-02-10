@@ -8,11 +8,11 @@ Skill Level Hourly Pay Rate (RM)<br/>
 2     20.00<br/>
 3     22.00<br/>
 
-Each factory worker might work any number of hours per week; any hours over 40 are paid at 1.5 times the usual rate. In addition, workers in Skill Level 2 and 3 can elect the following insurance option:<br/>
-Option    Explanation Weekly Cost to Employee (RM)<br/>
-1         Medical Insurance 32.50<br/>
-2         Dental Insurance 20.00<br/>
-3         Disability Insurance 10.00<br/>
+Each factory worker might work any number of hours per week; any hours over 40 are paid at 1.5 times the usual rate. In addition, workers in Skill Level 2 and 3 can elect the following insurance option:<br/><br/>
+Option        Explanation Weekly Cost to Employee (RM)<br/>
+1<t/>         Medical Insurance 32.50<br/>
+2<t/>         Dental Insurance 20.00<br/>
+3<t/>         Disability Insurance 10.00<br/>
 
 Also, workers in Skill Level 3 can elect to participate in the retirement plan at 3% of their gross pay. You are to develop an interactive payroll application that calculates the gross pay for a factory worker.<br/> 
 The program asks the user for skill level and hours worked, as well as appropriate insurance and retirement options for the employee’s skill level category. Your application will display:<br/>
