@@ -47,9 +47,9 @@ The volume of a triangle is 60 cm3_<br/><br/>
 **Question 3**<br/>
 
 The program below requests the user to enter the distance to drive, the fuel efficiency of the car in miles per gallon,<br/>
-and the price per gallon then display the cost of the trip.<br/><br/>
+and the price per gallon then display the cost of the trip.<br/>
 
-**Sample run:**<br/>
+**Sample run:**
 _Enter the driving distance: 900.5<br/>
 Enter miles per gallon: 25.5<br/>
 Enter price per gallon: 3.55<br/>
