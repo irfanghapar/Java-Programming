@@ -15,7 +15,8 @@ Store 4: ********<br/>
 Store 5: *******************<br/><br/>
 Input validation: You may use any value to stop the loop. This question may require the use of while loop with an if statement.<br/><br/>
 **Question 2**<br/><br/>
-Write a program that asks the user for a positive non-zero integer value. The program should use a loop to get the sum of all the integers from 1 up to the number entered. For example, if the user enters 50, the loop will find the sum of 1, 2, 3, 4, 5,…..,20.
+Write a program that asks the user for a positive non-zero integer value. The program should use a loop to get the sum of all the integers from 1 up to the number entered. <br/>
+For example, if the user enters 50, the loop will find the sum of 1, 2, 3, 4, 5,…..,20.<br/><br/>
 **Sample run:**<br/>
 Enter any positive number: 20 [enter]<br/>
 Total sum for all integers between 1 and 20 is 210.<br/>
