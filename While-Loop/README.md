@@ -1,13 +1,12 @@
 For both questions, implement only the pseudocode before developing the Java program.
 **Question 1**<br/>
-Write a program that asks the user to enter today’s sales for five stores. The program should display a bar chart comparing each other store’s sales. Create each bar in the bar chart by displaying a row of asterisks. 
-Each asterisk should represent RM100 of sales.<br/><br/>
+Write a program that asks the user to enter today’s sales for five stores. The program should display a bar chart comparing each other store’s sales. Create each bar in the bar chart by displaying a row of asterisks. Each asterisk should represent RM100 of sales.<br/><br/>
 _**Sample run:**_<br/>
 Enter today’s sales for store 1: 1000 [enter]<br/>
 Enter today’s sales for store 2: 1200 [enter]<br/>
 Enter today’s sales for store 3: 1800 [enter]<br/>
 Enter today’s sales for store 4: 800 [enter]<br/>
-Enter today’s sales for store 5: 1900 [enter]<br/>
+Enter today’s sales for store 5: 1900 [enter]<br/><br/>
 **SALES BAR CHART**<br/>
 Store 1: **********<br/>
 Store 2: ************<br/>
