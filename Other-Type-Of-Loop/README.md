@@ -1,5 +1,7 @@
 **For both questions, implement only the pseudocode before developing the Java program.**<b/><b/>
+
 **Question 1**<b/><b/>
+
 Suppose you put RM10,000 into a cash deposit (CD) with an annual percentage yield of 6.15%. After one month the CD is worth
 
 10000 + 10000 * 6.15 / 1200 = 10051.25
@@ -26,12 +28,17 @@ Month CD Value<b/>
 18 10963.81<b/>
 
 **Question 2**<b/><b/>
+
 A hotel’s occupancy rate is calculated as follows:<b/><b/>
+
 Occupancy rate = number of rooms occupied / total number of rooms<b/><b/>
+
 Write a program using while or do-while loop that calculates the occupancy rate for each floor of a hotel. The program should start by asking for the number of floors that the hotel has. A loop
 should then iterate once for each floor. During each iteration, the loop should ask the user for the number of rooms on the floor and how many of them are occupied. After all the iterations, the
 program should display the number of rooms the hotel has, the number that are occupied, the number that are vacant, and the occupancy rate for the hotel. <b/><b/>
+
 Input validation:<b/>
+
 i. Do NOT accept a value less than 1 for the number of floors.<b/>
 ii. Do NOT accept a number less than 10 for the number of rooms on a floor.<b/><b/>
 
