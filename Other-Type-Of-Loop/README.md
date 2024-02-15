@@ -25,7 +25,7 @@ Month CD Value<b/>
 …<b/>
 18 10963.81<b/>
 
-**Question 2**<b/>
+**Question 2**<b/><b/>
 A hotel’s occupancy rate is calculated as follows:<b/><b/>
 Occupancy rate = number of rooms occupied / total number of rooms<b/><b/>
 Write a program using while or do-while loop that calculates the occupancy rate for each floor of a hotel. The program should start by asking for the number of floors that the hotel has. A loop
