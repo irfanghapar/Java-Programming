@@ -40,9 +40,11 @@ program should display the number of rooms the hotel has, the number that are oc
 Input validation:<b/>
 
 i. Do NOT accept a value less than 1 for the number of floors.<b/>
+
 ii. Do NOT accept a number less than 10 for the number of rooms on a floor.<b/><b/>
 
 **Sample run**<b/>
+
 Number of floors: 3 [enter]<b/>
 Floor 1<b/>
 No. of rooms: 20 [enter]<b/>
