@@ -46,16 +46,30 @@ ii. Do NOT accept a number less than 10 for the number of rooms on a floor.<b/><
 **Sample run**<b/>
 
 Number of floors: 3 [enter]<b/>
+
 Floor 1<b/>
+
 No. of rooms: 20 [enter]<b/>
+
 No. of rooms occupied: 15 [enter]<b/>
+
 Floor 2<b/>
+
 No. of rooms: 20 [enter]<b/>
+
 No. of rooms occupied: 12 [enter]<b/>
+
 Floor 3<b/>
+
 No. of rooms: 20 [enter]<b/>
+
 No. of rooms occupied: 16 [enter]<b/>
+
 Total no. of rooms: 60<b/>
+
 Total no. of occupied rooms: 43<b/>
+
 Occupancy rate: 71.67%<b/><b/>
+
+
 <End of Questions>
