@@ -17,7 +17,11 @@ Write a program that prompts the user to enter details of 10 babies born between
 
 **Sample run:**
 Enter the year: 2010
+
 Enter the gender: M
+
 Enter the weight: 2.8
+
 Enter the name: Jayden
+
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/1be9c86e-f6db-4335-b9b2-b03419fa4760)
