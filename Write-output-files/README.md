@@ -16,6 +16,7 @@ Write a program to create two files. The input file should be opened for reading
 Write a program that prompts the user to enter details of 10 babies born between year 2001 to 2010. The details are the year, gender, weight (kg), and followed by a name. Output the details of each baby to a file.
 
 **Sample run:**
+
 Enter the year: 2010
 
 Enter the gender: M
