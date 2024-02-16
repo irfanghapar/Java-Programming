@@ -6,6 +6,7 @@ Write a program to create two files. The input file should be opened for reading
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/fac2556a-f18b-4e09-9ddb-6c49392967b2)
 
 **Sample run:**
+
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/664d638a-55ba-48d3-b5cd-768dbdc3ac1b)
 
 ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/81d13bdd-d97d-42f5-9489-6cbb6610da79)
