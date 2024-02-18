@@ -33,13 +33,23 @@ Write a program that invokes these methods to display the following tables: <b/>
 This problem is to handle telephone billing for customers. The billing depends on the type of the usage package chosen by the customer, i.e. Package 1 or Package 2. For Package 1, theminimum monthly charge of RM50.00 is assessed if the usage (call time) is less than or equal to 1000 minutes. Otherwise, the rate of RM0.18 per minute is charged for the first 1000 minutes and the rate of RM0.35 per minute is charged for the additional usage. For Package 2, the rate of RM0.18 per minute is charged for the usage less than or equal to 1000 minutes. Any additional usage is charged at RM0.55 per minute. You are required to write a program that will read the amount of telephone usage (call time) in minutes and the customer package, and display the amount of call time, the package type, and the amount to be paid by the customer. 
 
 Write the following methods and the main method for the program:<b/>
+
 /* method to read in from console and return the amount of telephone usage (call time) */<b/>
+
 public static int readCallTime(Scanner input)<b/>
+
 /* method to read in from console and return the customer package */<b/>
+
 public static int readTypeAcct(Scanner input)<b/>
+
 /* method to calculate and return the amount due (to be paid) for the telephone usage.<b/>
+
 Formal parameters are the call time and customer package */<b/>
+
 public static double calculateBill(int calltime, int packageType)<b/>
+
 /* method to display output */<b/>
+
 public static void printBill(int calltime, int packageType, double amountDue)<b/><b/>
+
 **Note**: Use the value “Yes”/“No” or 0 to allow the user to continue or quit the program.
