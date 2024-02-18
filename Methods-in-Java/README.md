@@ -12,6 +12,7 @@ Use parameters and return value for data sharing.<b/><b/>
 **Note**: Draw the flowchart diagram and pseudocode for Question 1<b/><b/>
 
 **Question 2**<b/>
+
 Write a program that contains the following two methods:<b/>
 _public static double celsiusToFahrenheit(double Celsius)_<b/>
 
