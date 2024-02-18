@@ -3,7 +3,9 @@
 Write a program that reads three data (type double) from user, calculates and display the average of the three data read. Use the methods as described below:
 
 (a) A method named readInput that reads three data (type double) from user and stores them in variables num1, num2, and num3.<b/>
+
 (b) A method named calcAverage that calculates the average of three data (type double) and stores the result in a variable named average. <b/>
+
 (c) A method named printOutput that displays the value stored in a variable named average. <b/>
 
 Use parameters and return value for data sharing.<b/><b/>
@@ -22,6 +24,7 @@ _public static double fahrenheitToCelsius (double Fahrenheit)_<b/>
 The formula for the conversion is:<b/>
 _fahrenheit = (9.0 / 5) * celsius + 32_<b/><b/>
 Write a program that invokes these methods to display the following tables: <b/><b/>
+
 <b/> ![image](https://github.com/irfanghapar/Java-Programming/assets/87377657/94008cf2-d3e6-42c7-af3d-c8f4b71cdea8)
 
 **Question 3**<b/>
